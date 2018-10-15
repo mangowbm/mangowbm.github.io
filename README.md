@@ -1,3 +1,3 @@
-# scau-mango.github.io
+# mangowbm.github.io
 ---
 #####welcome
