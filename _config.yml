@@ -1,5 +1,5 @@
- github: [metadata]
- title: 王斌芒个人站点
+ github: 王斌芒
+ title: 个人站点
  encoding: UTF-8
  kramdown:
    input: GFM
